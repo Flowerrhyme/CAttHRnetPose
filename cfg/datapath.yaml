@@ -1,0 +1,11 @@
+cache_path: cache/test1
+path:
+  - "test2/radar_images"
+
+
+val:
+  - "test2/radar_images"
+# number of classes
+nc: 1
+
+names: [ 'person']

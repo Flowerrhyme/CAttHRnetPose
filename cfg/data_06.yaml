@@ -1,0 +1,38 @@
+cache_path: /yq/RE/AttHRnetPose/cache/new06
+path:
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/squat_jxh/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/squat_ydl/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/squat_sjx/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/walking_jxh/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/walking_ydl/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/walking_sjx/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/wave_jxh/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/wave_ydl/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/wave_px/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/sit_jxh/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/sit_ydl/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/sit_px/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/random_ydl/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/walking_4p/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/walking_3p/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/walking_2p/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0605/chair/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0605/leg_ydl/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0605/squat_ydl/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0605/wave_ydl/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0606/wave_ydl/radar_images/
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0606/walking_ydl/radar_images/
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0606/squat_ydl/radar_images/
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0606/sit_ydl/radar_images/
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/squat_px/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/wave_sjx/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/walking_px/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/sit_sjx/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0602/walking_3ptest/radar_images
+  - /datanfs/dataForOpenpose-YDL/png_newdata/dataset_0605/test/radar_images
+
+
+# number of classes
+nc: 1
+
+names: [ 'person']

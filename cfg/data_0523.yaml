@@ -1,0 +1,17 @@
+cache_path: cache/new0523
+path:
+  - "/datanfs/dataForOpenpose-YDL/png_newdata/data_0519/fall_1person/radar_images"
+  - "/datanfs/dataForOpenpose-YDL/png_newdata/data_0519/sit_1person/radar_images"
+  - "/datanfs/dataForOpenpose-YDL/png_newdata/data_0519/sit_2person/radar_images"
+  - "/datanfs/dataForOpenpose-YDL/png_newdata/data_0519/squat_1person/radar_images"
+  - "/datanfs/dataForOpenpose-YDL/png_newdata/data_0519/walking_1person/radar_images"
+  - "/datanfs/dataForOpenpose-YDL/png_newdata/data_0519/walking_2person/radar_images"
+  - "/datanfs/dataForOpenpose-YDL/png_newdata/data_0519/wave_1person/radar_images"
+  - "/datanfs/dataForOpenpose-YDL/png_newdata/data_0519/wave_2person/radar_images"
+
+val:
+  - '/datanfs/dataForOpenpose-YDL/png_newdata/test/test-showarea-ydl'
+# number of classes
+nc: 1
+
+names: [ 'person']
